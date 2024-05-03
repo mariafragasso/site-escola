@@ -2,3 +2,19 @@ header {
 background-color: #383d58;
 color: White;
 }
+.cabecalho-imagem{
+    width: 20%;
+}
+.cabecalho {
+    background-color: #383d58;
+    color: white;
+    display: flex;
+    justify-content: space-around;
+}
+.cabecalho-lista-item{
+    display: inline-block;
+    margin: 0 16px;
+    padding: 0 24px;
+    justify-content: space-around;
+    font-size: 24px;
+}
